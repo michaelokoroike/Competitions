@@ -1,5 +1,2 @@
-# Machine Learning Portfolio
-
-Languages
- - Python
+# Competitions
 
